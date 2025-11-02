@@ -38,4 +38,4 @@ This project helped me understand:
 **Arakhita Sabata**  
 Feel free to star ⭐ this repo if you like it!
 
-## 📂 Folder Structure
+
