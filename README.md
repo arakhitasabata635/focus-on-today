@@ -23,10 +23,10 @@ This project encourages productivity by allowing users to add tasks and mark the
 ## 📸 Screenshots
 
 ### ✅ Home Page UI
-![App Screenshot 1](./screenshots/home.png)
+![App Screenshot 1](./image/home.png)
 
 ### ✅ Task Completed State
-![App Screenshot 2](./screenshots/completed.png)
+![App Screenshot 2](./image/completed.png)
 
 ## 🧠 Learning
 This project helped me understand:
